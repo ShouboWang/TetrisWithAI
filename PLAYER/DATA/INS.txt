@@ -1,0 +1,7 @@
+Make lines with the block
+More line = higher the score
+More lines created at once will give you higher score
+arrow keys to move
+space key to drop
+up arrow to rotate
+Have fun
